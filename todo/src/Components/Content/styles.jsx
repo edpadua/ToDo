@@ -2,7 +2,7 @@ import tw from "tailwind-styled-components";
 
 export const ContentContainer = tw.div`
     px-16 
-   
+    pb-10
 
 `;
 
